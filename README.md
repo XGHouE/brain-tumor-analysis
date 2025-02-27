@@ -1,1 +1,1 @@
-# brain-tumor-analysis, final project
+# brain tumor classification and segmentation, ENGS 106 final project
