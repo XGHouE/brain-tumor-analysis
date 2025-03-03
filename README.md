@@ -28,6 +28,6 @@ Trained for 20 epochs with 32 batch size. Used the dice coeffecient and dice los
 </div>
 
 ### Link to the trained UNet Model:
-<div align="center>
-  <p><em><a href="[url](https://drive.google.com/drive/folders/1tLgqE4yXmmK_8laLebRbEMb98bWcG6A-?usp=drive_link)">UNet Model</a></em></p>
+<div align="center">
+  <h2><a href="https://drive.google.com/drive/folders/1tLgqE4yXmmK_8laLebRbEMb98bWcG6A-?usp=sharing">UNet model</a></h2>
 </div>
