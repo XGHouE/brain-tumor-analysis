@@ -37,3 +37,15 @@ Trained for 20 epochs with 32 batch size. Used the dice coeffecient and dice los
 Residual networks use “skip” or residual connections on top of the original input.​ ResNet-152 is built from four stages of “bottleneck” blocks, each containing three convolutional layers plus a skip connection. This architecture helps capture complex representations such as detailed spatial features from MRI scans.​
 
 Here, we utilize ResNet152 to solve the task of given an fMRI brain scan, assign it one of the following classes **["Meningioma tumor", "Glioma tumor", "Pituitary tumor", "No Tumor]**. Trained for 20 epochs at a batch size of 16 at 512 resolution.
+<table>
+  <tr>
+    <td align="center">
+      <img src="results/ResNetAccuracy.png" width="450"><br>
+      <em>Accuracy over Epochs</em>
+    </td>
+    <td align="center">
+      <img src="results/ResNetLoss.png" width="450"><br>
+      <em>Dice Coeffecient Loss over Epochs</em>
+    </td>
+  </tr>
+</table>
