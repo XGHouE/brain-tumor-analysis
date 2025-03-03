@@ -26,7 +26,8 @@ Trained for 20 epochs with 32 batch size. Used the dice coeffecient and dice los
   <img src="results/Segmentation 4.png" width="100%">
   <p><em>True vs Mask 4</em></p>
 </div>
-## Link to the trained UNet Model:
+
+### Link to the trained UNet Model:
 <div align="center>
   <p><em><a href="[url](https://drive.google.com/drive/folders/1tLgqE4yXmmK_8laLebRbEMb98bWcG6A-?usp=drive_link)">UNet Model</a></em></p>
 </div>
