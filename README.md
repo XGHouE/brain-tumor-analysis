@@ -5,11 +5,11 @@ Trained for 20 epochs with 32 batch size. Used the dice coeffecient and dice los
   <tr>
     <td align="center">
       <img src="results/UNetaccuracy.png" width="450"><br>
-      <em>Caption for Image 1</em>
+      <em>Accuracy over Epochs</em>
     </td>
     <td align="center">
       <img src="results/UNet loss.png" width="450"><br>
-      <em>Caption for Image 2</em>
+      <em>Dice Coeffecient Loss over Epochs</em>
     </td>
   </tr>
 </table>
