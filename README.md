@@ -17,12 +17,12 @@ Trained for 20 epochs with 32 batch size. Used the dice coeffecient and dice los
   <img src="results/Segmentation 1.png" width="100%">
   <p><em>True vs Mask 1</em></p>
   
-  <img src="results/Segmentation 2.png" width="450">
+  <img src="results/Segmentation 2.png" width="100%">
   <p><em>True vs Mask 2</em></p>
 
- <img src="results/Segmentation 3.png" width="450">
+ <img src="results/Segmentation 3.png" width="100%">
   <p><em>True vs Mask 3</em></p>
 
-  <img src="results/Segmentation 4.png" width="450">
+  <img src="results/Segmentation 4.png" width="100%">
   <p><em>True vs Mask 4</em></p>
 </div>
