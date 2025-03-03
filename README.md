@@ -53,3 +53,7 @@ Here, we utilize ResNet152 to solve the task of given an fMRI brain scan, assign
   <img src="results/ConfusionMatrix.png" width="100%">
   <p><em>Confusion Matrix</em></p>
 </div>
+### Link to the trained ResNet152V2 Model:
+<div align="center">
+  <h2><a href="https://drive.google.com/file/d/1AeNDvpmbHhOnHQCHb8ytiQi08uvrVKRx/view?usp=sharing">UNet model</a></h2>
+</div>
