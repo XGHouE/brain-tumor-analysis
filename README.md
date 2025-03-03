@@ -45,7 +45,11 @@ Here, we utilize ResNet152 to solve the task of given an fMRI brain scan, assign
     </td>
     <td align="center">
       <img src="results/ResNetLoss.png" width="450"><br>
-      <em>Dice Coeffecient Loss over Epochs</em>
+      <em>Loss over Epochs</em>
     </td>
   </tr>
 </table>
+<div align="center">
+  <img src="results/ConfusionMatrix.png" width="100%">
+  <p><em>Confusion Matrix</em></p>
+</div>
