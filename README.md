@@ -50,7 +50,7 @@ Here, we utilize ResNet152 to solve the task of given an fMRI brain scan, assign
   </tr>
 </table>
 <div align="center">
-  <img src="results/ConfusionMatrixResNet152V2.png" width="100%">
+  <img src="results/CofusionMatrixResNet152V2.png" width="100%">
   <p><em>Confusion Matrix</em></p>
 </div>
 
