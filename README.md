@@ -1,4 +1,13 @@
 # Brain tumor classification and segmentation, ENGS 106 final project
+## Poster
+<div align="center">
+  <h2><a href="https://drive.google.com/file/d/1TTesbIetvlBKxUHdf4Yb70iNkWRDrrI9/view?usp=sharing">Link to Poster</a></h2>
+</div>
+<div align="center">
+  <img src="poster.png" width="100%">
+
+</div>
+
 ## UNet Segmentation
 1 for meningioma, 2 for glioma, 3 for pituitary tumor
 Trained for 20 epochs with 32 batch size. Used the dice coeffecient and dice loss to determine how much do the ground-truth and the predicted masks overlab. Training for more epochs is eventually going to lead to more accurate segmentation of the tumors.
