@@ -8,6 +8,11 @@
 
 </div>
 
+## Report
+<div align="center">
+  <h2><a href="https://drive.google.com/file/d/150Ge16xz1kSlSdzjBzOFcxUqjsMScJ11/view?usp=sharing">Link to report</a></h2>
+</div>
+
 ## UNet Segmentation
 1 for meningioma, 2 for glioma, 3 for pituitary tumor
 Trained for 20 epochs with 32 batch size. Used the dice coeffecient and dice loss to determine how much do the ground-truth and the predicted masks overlab. Training for more epochs is eventually going to lead to more accurate segmentation of the tumors.
